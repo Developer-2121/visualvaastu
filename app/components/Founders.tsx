@@ -15,11 +15,12 @@ export default function Founders() {
                             <div className="founder-photo">
                                 {/* Add your founder image here */}
                                 <Image
-                                    src="/images/dr_komal.jpg"
+                                    src="/images/dr_komal.jpeg"
                                     alt="Dr. Komal Jeetu Parmar"
                                     width={200}
-                                    height={200}
-                                    className="founder-image"
+                                    height={220}
+                                    className="founder-image object-cover"
+                                // objectFit='cover'
                                 />
                             </div>
                         </div>
@@ -53,10 +54,10 @@ export default function Founders() {
                             <div className="founder-photo">
                                 {/* Add your founder image here */}
                                 <Image
-                                    src="/images/pooja_rathod.jpg"
+                                    src="/images/dr_pooja.jpeg"
                                     alt="Pooja Palesha Rathod"
                                     width={200}
-                                    height={200}
+                                    height={220}
                                     className="founder-image"
                                 />
                             </div>

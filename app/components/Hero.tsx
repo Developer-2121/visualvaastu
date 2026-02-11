@@ -38,7 +38,7 @@ export default function Hero() {
                 />
             </div>
 
-            <div className="hero-content fade-in">
+            <div className="hero-content">
                 <h1>VisualVaastu</h1>
                 <p className="subtitle">Where Energy Meets Design</p>
                 <p>Every structure is more than bricks and blueprints — it is a living space of energy, emotion, and intention.</p>

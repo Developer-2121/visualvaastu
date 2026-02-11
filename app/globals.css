@@ -220,6 +220,7 @@ nav.scrolled {
 }
 
 .cta-button.secondary {
+
   background: rgba(255, 255, 255, 0.1);
   border: 2px solid var(--white);
   box-shadow: none;
@@ -380,7 +381,7 @@ section {
 
 .founder-photo {
   width: 200px;
-  height: 200px;
+  height: 220px;
   border-radius: 50%;
   overflow: hidden;
   border: 5px solid var(--white);
@@ -395,6 +396,7 @@ section {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: top;
 }
 
 .founder-info {
