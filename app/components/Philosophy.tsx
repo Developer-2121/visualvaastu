@@ -26,8 +26,7 @@ export default function Philosophy() {
                 </div>
 
                 <p style={{ textAlign: 'center', fontSize: '1.15rem', marginTop: '3rem', maxWidth: '900px', marginLeft: 'auto', marginRight: 'auto' }}>
-                    All our remedies are practical, aesthetic, and non-destructive, blending energy mapping with intelligent design thinking. We continuously upgrade ourselves with new technologies and multiple approaches to this ancient science.
-                </p>
+                    Practical solutions. Aesthetic results. No destruction. We offer simple and beautiful remedies that don’t damage your space, blending energy balance, thoughtful design, ancient wisdom, and modern approaches to create harmonious spaces                </p>
             </div>
         </section>
     );

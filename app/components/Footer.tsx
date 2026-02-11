@@ -14,9 +14,23 @@ export default function Footer() {
 
                 <div className="footer-section">
                     <h3>Contact Us</h3>
-                    <p>📞 Phone: +91 [Your Phone Number]</p>
-                    <p>📧 Email: info@visualvaastu.com</p>
-                    <p>📍 Address:<br />[Your Business Address]<br />[City, State, PIN Code]</p>
+                    <p className="flex items-center gap-2">
+                        <span>📞 Phone:</span>
+                        <a href="tel:+919175566186" className="hover:underline">
+                            +91 9175566186
+                        </a>
+                        ,
+                        <a href="tel:+919637311920" className="hover:underline">
+                            +91 9637311920
+                        </a>
+                    </p>
+
+                    <p>Email: <a href="mailto:visualvaastu06@gmail.com">visualvaastu06@gmail.com</a>
+                    </p>
+                    <p>
+                        <span>📍 Address:</span> Pune, Maharashtra 411037
+                    </p>
+
                 </div>
 
                 <div className="footer-section">
@@ -45,7 +59,7 @@ export default function Footer() {
             </div>
 
             <div className="footer-bottom">
-                <p>&copy; 2026 VisualVaastu. All rights reserved. | Designed with energy & intention</p>
+                <p>&copy; 2024 VisualVaastu. All rights reserved. | Designed with energy & intention</p>
             </div>
         </footer>
     );
