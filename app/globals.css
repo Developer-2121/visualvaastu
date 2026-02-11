@@ -760,6 +760,18 @@ footer {
       display: none;
   }
 
+  section {
+      padding: 3rem 1rem;
+  }
+
+  .section-header {
+      margin-bottom: 2rem;
+  }
+
+  .founder-info, .service-card, .testimonial-card, .philosophy-card, .stat-card {
+      padding: 1.5rem;
+  }
+
   .hero {
       min-height: 70vh;
       padding: 6rem 1rem 2rem;
