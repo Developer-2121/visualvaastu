@@ -26,7 +26,7 @@ export default function Founders() {
                         </div>
 
                         <div className="founder-info">
-                            <h3>Dr. Komal Jeetu Parmar</h3>
+                            <h3 className="founder-name-red">Dr. Komal Jeetu Parmar</h3>
                             <p className="founder-role">Vastu Consultant | Energy Healer | Mentor</p>
                             <p className="founder-education">Ph.D. in Vastu – Udaipur University</p>
 
@@ -64,7 +64,7 @@ export default function Founders() {
                         </div>
 
                         <div className="founder-info">
-                            <h3>Pooja Palesha Rathod</h3>
+                            <h3 className="founder-name-red">Pooja Palesha Rathod</h3>
                             <p className="founder-role">Managing Partner | Technical Analyst | Vastu Planner</p>
 
                             <p>With over 16 years of experience in design and technical vastu planning, Pooja ensures every project reflects a perfect balance between layout precision and energy intent.</p>

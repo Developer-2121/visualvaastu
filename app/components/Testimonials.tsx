@@ -13,7 +13,7 @@ export default function Testimonials() {
                             Thank you for your consistent support and strategic guidance. Your advanced Vastu insights helped us make informed decisions for both our business and residence. The clarity, positivity, and growth we experienced truly reflect your expertise.
                         </p>
                         <p className="testimonial-author">Anoop Mishra</p>
-                        <p className="testimonial-company">Senwell, Aerospace - informs technology company.</p>
+                        <p className="testimonial-company">Senwell, Aerospace - information technology company.</p>
 
                     </div>
 
