@@ -42,7 +42,7 @@ export default function Hero() {
                 <h1>VisualVaastu</h1>
                 <p className="subtitle">Where Energy Meets Design</p>
                 <p>Every structure is more than bricks and blueprints — it is a living space of energy, emotion, and intention.</p>
-                <div style={{ display: 'flex', flexWrap: 'nowrap', gap: '1rem', justifyContent: 'center', marginTop: '1.5rem' }}>
+                <div style={{ display: 'flex', flexWrap: 'nowrap', gap: '1rem', justifyContent: 'center' }}>
                     <a href="#services" className="cta-button">Explore Our Services</a>
                     <a href="#contact" className="cta-button secondary">Book a Consultation</a>
                 </div>

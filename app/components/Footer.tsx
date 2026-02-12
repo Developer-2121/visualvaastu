@@ -19,13 +19,17 @@ export default function Footer() {
                         <a href="tel:+919175566186" className="hover:underline">
                             +91 9175566186
                         </a>
-                        ,
+                    </p>
+                    <p className="flex items-center gap-2">
+                        <span>📞 Phone:</span>
+
+
                         <a href="tel:+919637311920" className="hover:underline">
                             +91 9637311920
                         </a>
                     </p>
-
-                    <p>Email: <a href="mailto:visualvaastu06@gmail.com">visualvaastu06@gmail.com</a>
+                    <p>
+                        📧Email: <a href="mailto:visualvaastu06@gmail.com">visualvaastu06@gmail.com</a>
                     </p>
                     <p>
                         <span>📍 Address:</span> Pune, Maharashtra 411037
@@ -33,12 +37,14 @@ export default function Footer() {
 
                 </div>
 
-                <div className="footer-section">
+                <div className="footer-section footer-links">
                     <h3>Quick Links</h3>
-                    <a href="#about">About Us</a>
-                    <a href="#founders">Our Founders</a>
-                    <a href="#services">Services</a>
-                    <a href="#testimonials">Testimonials</a>
+                    <div className="links-grid">
+                        <a href="#about">About Us</a>
+                        <a href="#founders">Our Founders</a>
+                        <a href="#services">Services</a>
+                        <a href="#testimonials">Testimonials</a>
+                    </div>
                 </div>
 
                 <div className="footer-section">
@@ -47,10 +53,10 @@ export default function Footer() {
                         <a href="https://instagram.com/visualvaastu" target="_blank" rel="noopener noreferrer" title="Instagram">
                             <FaInstagram />
                         </a>
-                        <a href="https://facebook.com/visualvaastu" target="_blank" rel="noopener noreferrer" title="Facebook">
+                        <a href="https://www.facebook.com/people/Visual-Vaastu/61576971067757/" target="_blank" rel="noopener noreferrer" title="Facebook">
                             <FaFacebookF />
                         </a>
-                        <a href="https://youtube.com/visualvaastu" target="_blank" rel="noopener noreferrer" title="YouTube">
+                        <a href="https://www.youtube.com/@visualvaastu" target="_blank" rel="noopener noreferrer" title="YouTube">
                             <FaYoutube />
                         </a>
                     </div>

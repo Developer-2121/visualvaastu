@@ -22,22 +22,8 @@ export default function Experience() {
                 </div>
 
                 <div className="experience-content">
-                    <p>With a journey that began in 2010, we bring 16+ years of hands-on experience in Vastu consultancy and space energy alignment.</p>
-
-                    <p>Over the years, we have visited and analyzed 2,000+ spaces, including homes, apartments, villas, offices, retail stores, factories, and commercial properties.</p>
-
-                    <p>We have worked with diverse layouts, cities, and challenges, giving us deep practical insight beyond textbooks. We help clients make confident decisions—whether choosing, correcting, or settling into the right space.</p>
-
-                    <p>Our strength lies in on-site evaluation, where real energies are observed, understood, and aligned with minimal disturbance to the existing structure.</p>
-
-                    <p style={{ fontSize: '1.3rem', fontWeight: 600, textAlign: 'center', margin: '2rem 0' }}>
-                        This experience has taught us one powerful truth: No two spaces are the same—and effective Vastu lies in customization, not assumptions.
-                    </p>
-
-                    <p>Backed by years of practice, intuition, and scientific understanding, we focus on practical solutions, long-term stability and growth, and aligning spaces with people, not forcing changes.</p>
-
-                    <p style={{ fontSize: '1.25rem', fontWeight: 600, textAlign: 'center', marginTop: '2rem' }}>
-                        Because when experience guides energy, spaces don&apos;t just look good—they start working for you.
+                    <p style={{ fontSize: '1.2rem', textAlign: 'center', lineHeight: '1.8' }}>
+                        We have conducted on-site Vastu consultations across India, including Bangalore, Chennai, Madurai, Vijayawada, Karnataka, and Delhi, along with online consultations for clients in Australia, the USA, and other countries.
                     </p>
                 </div>
             </div>
