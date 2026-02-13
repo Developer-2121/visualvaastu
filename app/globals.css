@@ -179,7 +179,12 @@ nav.scrolled {
   margin-bottom: 1rem;
   line-height: 1.2;
   text-shadow: 2px 2px 12px rgba(0, 0, 0, 0.6);
+  text-decoration: underline;
+  text-decoration-color: red;
+  text-underline-offset: 10px;
+  text-decoration-thickness: 3px;
 }
+
 
 .hero .subtitle {
   font-size: 1.5rem;
@@ -769,6 +774,17 @@ footer {
   padding-top: 2rem;
   border-top: 1px solid rgba(255,255,255,0.2);
   color: rgba(255,255,255,0.7);
+}
+
+.dev-link {
+  color: #00e5ff !important;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.dev-link:hover {
+  color: var(--accent) !important;
+  text-decoration: underline;
 }
 
 /* Responsive */

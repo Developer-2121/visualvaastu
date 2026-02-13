@@ -26,7 +26,7 @@ export default function Founders() {
                         </div>
 
                         <div className="founder-info">
-                            <h3 className="founder-name-red">Dr. Komal Jeetu Parmar</h3>
+                            <h3 className="founder-name-red">Dr. Komal J Parmar</h3>
                             <p className="founder-role">Vastu Consultant | Energy Healer | Mentor</p>
                             <p className="founder-education">Ph.D. in Vastu – Udaipur University</p>
 
@@ -43,7 +43,7 @@ export default function Founders() {
                                 <li>Astro-Numerology</li>
                             </ul>
 
-                            <p>Her consultations are designed to bring energetic harmony, clarity, and transformation.</p>
+                            <p>Her consultations are designed to bring energetic harmony, clarity and transformation.</p>
 
                             <p className="founder-quote">&quot;For me, every space has a pulse — when you tune into it, transformation begins.&quot;</p>
                         </div>
@@ -76,7 +76,7 @@ export default function Founders() {
                                 <li>Analytical drawings and reports</li>
                             </ul>
 
-                            <p>Also trained in Tarot Reading, Numerology, Reiki, and Yoga, she believes that design becomes powerful when mind, body, and energy are aligned.</p>
+                            <p>Also trained in Tarot Reading, Numerology, Reiki and Yoga, she believes that design becomes powerful when mind, body, and energy are aligned.</p>
 
                             <p className="founder-quote">&quot;Vastu isn&apos;t about changing walls — it&apos;s about changing flow.&quot;</p>
                         </div>

@@ -8,7 +8,7 @@ export default function Services() {
                 </div>
 
                 <p style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto 3rem', fontSize: '1.15rem' }}>
-                    Every consultation at VisualVaastu is personalized and intentional, aligning space, structure, and spirit.
+                    Every consultation at VisualVaastu is personalized and intentional, aligning space, structure and spirit.
                 </p>
 
                 <div className="services-grid">

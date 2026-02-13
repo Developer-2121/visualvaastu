@@ -9,7 +9,7 @@ export default function Mission() {
 
                 <div className="mission-content">
                     <p style={{ textAlign: 'center', fontSize: '1.2rem', marginBottom: '2rem' }}>
-                        To spread awareness that Vastu is not about being superstitious or holding fear — it is about balance, awareness, and transformation.
+                        To spread awareness that Vastu is not about being superstitious or holding fear — it is about balance, awareness and transformation.
                     </p>
 
                     <p style={{ textAlign: 'center', fontSize: '1.15rem', marginBottom: '2rem' }}>

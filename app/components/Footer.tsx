@@ -65,7 +65,7 @@ export default function Footer() {
             </div>
 
             <div className="footer-bottom">
-                <p>&copy; 2024 VisualVaastu. All rights reserved. | Designed with energy & intention</p>
+                <p>&copy; 2024 VisualVaastu. All rights reserved. | Designed by <a href="https://www.parasinfotech.co.in/" className="dev-link">Paras Infotech</a></p>
             </div>
         </footer>
     );

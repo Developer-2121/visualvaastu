@@ -23,7 +23,7 @@ export default function Experience() {
 
                 <div className="experience-content">
                     <p style={{ fontSize: '1.2rem', textAlign: 'center', lineHeight: '1.8' }}>
-                        We have conducted on-site Vastu consultations across India, including Bangalore, Chennai, Madurai, Vijayawada, Karnataka, and Delhi, along with online consultations for clients in Australia, the USA, and other countries.
+                        We have conducted on-site Vastu consultations across India, including Bangalore, Chennai, Madurai, Vijayawada, Karnataka and Delhi, along with online consultations for clients in Australia, the USA and other countries.
                     </p>
                 </div>
             </div>
